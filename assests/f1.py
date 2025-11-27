@@ -1,1 +1,1 @@
-print('hello zaid  saiyaad karau')
+print('hello zaidu')
